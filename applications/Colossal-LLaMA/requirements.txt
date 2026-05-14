@@ -1,4 +1,4 @@
-torch==2.1.2
+torch==2.8.0
 huggingface-hub
 packaging==24.0
 colossalai>=0.4.0
@@ -11,5 +11,5 @@ datasets
 ninja==1.11.1
 flash-attn
 tqdm
-sentencepiece==0.1.99
-protobuf<=3.20.0
+sentencepiece==0.2.1
+protobuf<=6.33.5
