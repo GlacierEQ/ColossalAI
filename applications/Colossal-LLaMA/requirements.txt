@@ -4,7 +4,7 @@ packaging==24.0
 colossalai>=0.4.0
 autoflake==2.2.1
 black==23.9.1
-transformers>=4.39.3
+transformers>=4.57.6
 tensorboard==2.14.0
 six==1.16.0
 datasets

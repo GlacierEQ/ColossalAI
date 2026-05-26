@@ -1,4 +1,4 @@
-transformers>=4.32.0
+transformers>=4.57.6
 colossalai>=0.3.4
 peft
 tabulate
